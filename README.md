@@ -42,13 +42,10 @@ You can click the Preview link to take a look at your changes.
     </picture> 
   </a>
 
-  <a href="https://leetcode.com/u/jumail_12/" target="_blank" rel="noreferrer"> 
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" /> 
-  </picture> 
+<a href="https://leetcode.com/u/jumail_12/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
 </a>
+
 
 </p>
 
