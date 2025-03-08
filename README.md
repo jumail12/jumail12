@@ -9,7 +9,7 @@
 
 - 🚀 Currently working at [Bridgeon Solution](http://bridgeon.in/)
 - 🤝 Open to collaborating on interesting projects
-- 📫 Reach me at **jumailjumi2003@gmail.com**
+- 📫 Reach me at **jumailofficial786@gmail.com**
 
 ---
 
