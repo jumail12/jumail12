@@ -58,20 +58,7 @@
   </a>
 </p>
 
----
 
-### 🔝 Top Repositories
-
-<p align="center">
-  <a href="https://github.com/jumail12/EcomPets_Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jumail12&repo=EcomPets_Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="EcomPets_Backend">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/jumail12/Redux-ecom-pets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jumail12&repo=Redux-ecom-pets&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Redux-ecom-pets">
-  </a>
-</p>
 
 
 
