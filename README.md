@@ -1,13 +1,12 @@
 <!-- GitHub README -->
 
 <h1 align="center">Hi 👋, I'm Jumail</h1>
-<h3 align="center"> Full-Stack .NET Core Developer</h3>
+<h3 align="center">React + .NET Core Developer</h3>
 
 ---
 
 ### About Me
 
-- 🚀 Currently working at [Bridgeon Solution](http://bridgeon.in/)
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me at **jumailofficial786@gmail.com**
 
